@@ -43,15 +43,15 @@ A modern and elegant fashion e-commerce landing page designed for women. Shoppin
 
 ### Home Page
 
-![Home](images/home.png)
+![Home](assets/home.png)
 
 ### Product Section
 
-![Products](images/products.png)
+![Products](assets/products.png)
 
 ### Shopping Cart
 
-![Cart](images/cart.png)
+![Cart](assets/cart.png)
 
 ---
 
