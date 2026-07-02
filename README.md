@@ -41,8 +41,6 @@ A modern and elegant fashion e-commerce landing page designed for women. Shoppin
 
 ## 📷 Preview
 
-> Add your screenshots here.
-
 ### Home Page
 
 ![Home](images/home.png)
