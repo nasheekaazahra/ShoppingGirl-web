@@ -64,8 +64,6 @@ Shopping Girl is a modern fashion e-commerce website created to showcase women's
  ┗ 📜 README.md
 ```
 
-> Jika struktur project kamu berbeda, sesuaikan bagian di atas.
-
 ---
 
 <div align="center">
