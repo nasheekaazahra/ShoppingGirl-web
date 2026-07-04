@@ -1,99 +1,85 @@
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
 # 🛍️ Shopping Girl
 
-A modern and elegant fashion e-commerce landing page designed for women. Shopping Girl provides a seamless shopping experience with a clean interface, responsive layout, and visually appealing product showcase.
+### Modern Fashion E-Commerce Website
 
-## 🌐 Live Demo
+A modern, elegant, and responsive fashion shopping website designed to provide an enjoyable online shopping experience. The interface focuses on clean aesthetics, intuitive navigation, and a mobile-friendly layout.
 
-🔗 https://nasheekaazahra.github.io/ShoppingGirl-web/
+<br>
+
+[🌐 Live Demo](https://nasheekaazahra.github.io/ShoppingGirl-web/)
+•
+[💻 Source Code](https://github.com/nasheekaazahra/ShoppingGirl-web)
+
+<br>
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</div>
 
 ---
 
-## ✨ Features
+## ✨ Overview
 
-- 🏠 Modern landing page
+Shopping Girl is a modern fashion e-commerce website created to showcase women's fashion products through a clean, visually appealing, and responsive interface. The project focuses on delivering an intuitive browsing experience while highlighting contemporary UI design principles.
+
+---
+
+## 🎥 Preview
+
+<p align="center">
+  <img src="preview/demo.gif" width="100%" alt="Shopping Girl Demo">
+</p>
+
+---
+
+## Highlights
+
+- 🛍️ Modern shopping landing page
 - 👗 Fashion product showcase
 - 🔍 Product search
-- 🛒 Shopping cart interface
-- ❤️ Wishlist button
-- 📱 Fully responsive design
-- 🎨 Clean & feminine UI
-- ⚡ Smooth scrolling and animations
+- ❤️ Wishlist interface
+- 🛒 Shopping cart
+- 📱 Responsive on desktop, tablet, and mobile
+- ✨ Smooth scrolling & hover animations
+- 🎨 Clean and feminine design
 
 ---
 
-## 🛠️ Built With
+## Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Font Awesome
-
----
-
-## 📷 Preview
-
-### Home Page
-
-![Home](assets/home.png)
-
-### Product Section
-
-![Products](assets/products.png)
-
-### Shopping Cart
-
-![Cart](assets/cart.png)
+| Front-End | UI/UX |
+|-----------|--------|
+| HTML5 | Responsive Design |
+| CSS3 | Modern Interface |
+| JavaScript | User-Friendly Layout |
+| Bootstrap | Mobile First Design |
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
-```
-ShoppingGirl-web/
-│
-├── css/
-├── js/
-├── images/
-├── index.html
-└── README.md
+```text
+📦 ShoppingGirl-web
+ ┣ 📂 assets/
+ ┣ 📂 css/
+ ┣ 📂 js/
+ ┣ 📜 index.html
+ ┗ 📜 README.md
 ```
 
----
-
-## 🎯 Project Goals
-
-This project was created to practice front-end web development while focusing on responsive layouts, modern UI design, and user-friendly shopping experiences.
+> Jika struktur project kamu berbeda, sesuaikan bagian di atas.
 
 ---
 
-## 🚀 Future Improvements
+<div align="center">
 
-- User authentication
-- Product filtering
-- Product detail page
-- Checkout system
-- Payment integration
-- Order history
-- Dark mode
+Made by **Nasheeka Azahra**
 
----
+⭐ If you enjoyed this project, consider giving it a star.
 
-## 👩‍💻 Author
-
-**Nasheeka Azahra**
-
-GitHub:
-https://github.com/nasheekaazahra
-
----
-
-⭐ If you like this project, don't forget to give it a star!
+</div>
