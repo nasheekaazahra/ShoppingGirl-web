@@ -29,14 +29,6 @@ Shopping Girl is a modern fashion e-commerce website created to showcase women's
 
 ---
 
-## 🎥 Preview
-
-<p align="center">
-  <img src="preview/demo.gif" width="100%" alt="Shopping Girl Demo">
-</p>
-
----
-
 ## Highlights
 
 - 🛍️ Modern shopping landing page
@@ -66,9 +58,9 @@ Shopping Girl is a modern fashion e-commerce website created to showcase women's
 ```text
 📦 ShoppingGirl-web
  ┣ 📂 assets/
- ┣ 📂 css/
- ┣ 📂 js/
  ┣ 📜 index.html
+ ┣ 📜 script.js
+ ┣ 📜 style.css
  ┗ 📜 README.md
 ```
 
